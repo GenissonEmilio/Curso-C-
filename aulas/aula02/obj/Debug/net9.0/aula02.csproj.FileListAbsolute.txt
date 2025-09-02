@@ -1,0 +1,15 @@
+C:\Users\esgen\OneDrive\Documentos\GitHub\Curso-C-\aulas\aula02\bin\Debug\net9.0\aula02.exe
+C:\Users\esgen\OneDrive\Documentos\GitHub\Curso-C-\aulas\aula02\bin\Debug\net9.0\aula02.deps.json
+C:\Users\esgen\OneDrive\Documentos\GitHub\Curso-C-\aulas\aula02\bin\Debug\net9.0\aula02.runtimeconfig.json
+C:\Users\esgen\OneDrive\Documentos\GitHub\Curso-C-\aulas\aula02\bin\Debug\net9.0\aula02.dll
+C:\Users\esgen\OneDrive\Documentos\GitHub\Curso-C-\aulas\aula02\bin\Debug\net9.0\aula02.pdb
+C:\Users\esgen\OneDrive\Documentos\GitHub\Curso-C-\aulas\aula02\obj\Debug\net9.0\aula02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esgen\OneDrive\Documentos\GitHub\Curso-C-\aulas\aula02\obj\Debug\net9.0\aula02.AssemblyInfoInputs.cache
+C:\Users\esgen\OneDrive\Documentos\GitHub\Curso-C-\aulas\aula02\obj\Debug\net9.0\aula02.AssemblyInfo.cs
+C:\Users\esgen\OneDrive\Documentos\GitHub\Curso-C-\aulas\aula02\obj\Debug\net9.0\aula02.csproj.CoreCompileInputs.cache
+C:\Users\esgen\OneDrive\Documentos\GitHub\Curso-C-\aulas\aula02\obj\Debug\net9.0\aula02.sourcelink.json
+C:\Users\esgen\OneDrive\Documentos\GitHub\Curso-C-\aulas\aula02\obj\Debug\net9.0\aula02.dll
+C:\Users\esgen\OneDrive\Documentos\GitHub\Curso-C-\aulas\aula02\obj\Debug\net9.0\refint\aula02.dll
+C:\Users\esgen\OneDrive\Documentos\GitHub\Curso-C-\aulas\aula02\obj\Debug\net9.0\aula02.pdb
+C:\Users\esgen\OneDrive\Documentos\GitHub\Curso-C-\aulas\aula02\obj\Debug\net9.0\aula02.genruntimeconfig.cache
+C:\Users\esgen\OneDrive\Documentos\GitHub\Curso-C-\aulas\aula02\obj\Debug\net9.0\ref\aula02.dll
